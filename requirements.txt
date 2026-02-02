@@ -1,0 +1,2 @@
+pygame>=2.1.0,<3.0
+# Note: On Windows you may need to upgrade pip/wheel or use conda/pipwin to install pygame wheels.
